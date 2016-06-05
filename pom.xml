@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>victory</artifactId>
-    <version>0.4.1-SNAPSHOT</version>
+    <version>0.8.0-SNAPSHOT</version>
     <name>Victory</name>
     <description>WebJar for Victory</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>0.4.0</upstream.version>
+        <upstream.version>0.8.0</upstream.version>
         <upstream.url>https://github.com/FormidableLabs/victory/archive/v${upstream.version}.zip</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${project.version}</destDir>
         <requirejs>
