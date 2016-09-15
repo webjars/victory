@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>victory</artifactId>
-    <version>0.12.0-SNAPSHOT</version>
+    <version>0.12.0</version>
     <name>Victory</name>
     <description>WebJar for Victory</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/victory</url>
         <connection>scm:git:https://github.com/webjars/victory.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/victory.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>victory-0.12.0</tag>
     </scm>
     
     <build>
